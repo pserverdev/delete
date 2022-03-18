@@ -21,11 +21,11 @@ function file_getcontent_with_proxy($urltoget) {
 
 $urls = array (
   array ("ricardo8596","https://kandillihamit.pserver.ru/ricardo8596/index.php"),
-  array ("alaramorgennn18","https://alaramorgennn18.euserverpro.xyz/?name=alaramorgennn18"),
+  array ("alaramorgennn18","https://alaramorgennn18.euserverpro.xyz/?name=alaramor"),
   array ("alaramorgennn18","https://alaramorgennn18.euserverpro.xyz/?name=alaramorgen"),
   array ("alaramorgennn18","https://alaramorgennn18.euserverpro.xyz/?name=myalara"),
-  array ("suzanne27","https://kandillihamit.pserver.ru/suzanne27/index.php"),
-  array ("suzanne27","https://kandillihamit.pserver.ru/suzanne27/index.php"),
+  array ("alexsis85more","https://alexsis85more.euserverpro.xyz/?name=alexsismore"),
+  array ("alexsis85more","https://alexsis85more.euserverpro.xyz/?name=myalemore"),
   array ("suzanne27","https://kandillihamit.pserver.ru/suzanne27/index.php"),
   array ("suzanne27","https://kandillihamit.pserver.ru/suzanne27/index.php"),
   array ("suzanne27","https://kandillihamit.pserver.ru/suzanne27/index.php"),
